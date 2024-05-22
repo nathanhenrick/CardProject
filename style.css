@@ -77,7 +77,6 @@ body {
     width: 24.83rem;
     height: 13.61rem;
 
-    /* position: absolute; */
     margin-left: 10rem;
     z-index: 1;
 }
@@ -146,4 +145,5 @@ h1, #cvcLabel {
 
 #submitBtn:hover {
     background-color: hsl(278, 94%, 30%);
+    cursor: pointer;
 }
